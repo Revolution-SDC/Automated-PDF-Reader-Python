@@ -1,6 +1,8 @@
 # Automated-PDF-Reader-Python
 An automated PDF reader written in Python.  
 
+Code submitted by [Sheshadri Vyas](https://github.com/Sheshadri-vyas/).
+
 * Saves the page number so that the reader automatically starts reading from where it was left off.
 
 # Usage
