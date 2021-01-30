@@ -3,6 +3,7 @@ An automated PDF reader written in Python.
 
 Code submitted by [Sheshadri Vyas](https://github.com/Sheshadri-vyas/).
 
+* Read a PDF file provided in the root directory of the script.
 * Saves the page number so that the reader automatically starts reading from where it was left off.
 
 # Usage
